@@ -1,0 +1,7 @@
+Primeiro repositório criado sozinho por min, em cumprimento do desafio da DIO,
+do curso de Git/GitHub.
+
+links úteis:
+https://github.com/
+https://git-scm.com/downloads
+https://www.dio.me/
