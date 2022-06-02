@@ -1,1 +1,1 @@
-# Primeiro-Reposiorio-sozinho-DIO
+# Primeiro-Repositorio-sozinho-DIO
